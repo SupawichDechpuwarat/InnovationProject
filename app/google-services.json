@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "811983378309",
+    "firebase_url": "https://innovationproject-81a6a.firebaseio.com",
+    "project_id": "innovationproject-81a6a",
+    "storage_bucket": "innovationproject-81a6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811983378309:android:d356fe56b5b21cd9",
+        "android_client_info": {
+          "package_name": "com.example.tni.innovationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811983378309-54lpr3t6hu23kdgrqv9m8mq4hpqpf58t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQ9QusUUAOnuDkucUsXy0sG5koP5blKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
